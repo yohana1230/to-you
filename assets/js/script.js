@@ -32,14 +32,14 @@ jam.innerHTML = `${hour}:${minutes}`
 const pengirim = "Yohana";
 const nomorWa = "jooanaa00_"
 const textWa = "Ah bisa aja kamu"
-const pesan = `Seperti biasanya, kamu masuk di slide longtext. \n\n
+const pesan = `Seperti biasanya, kamu masuk di slide longtext.     \n\n
 
 
 Aku mau ucapain banyak" terimakasih buat selama ini, terimakasih udah jalan sejauh ini, terimakasih udah nerima kurang lebihnya aku, terimakasih atas sabarmu, terimakasih buat semua yang kamu kasih ke aku, yang aku gabisa bales satu per satu, makasih atas effort, perhatian, apapun itu dalam bentuk apapun itu, aku ucapain terimakasih banyak
 
 Aku minta maaf aku bukan cewe yang bisa ngerti kamu, ngga paham sama pikiran kamu
 Maaf buat perilaku yang nyakitin kamu, maaf selalu ngerepotin kamu, im so lucky have you
-Jangan bosen sama aku, jangan jauh sama aku, tetep sama aku, aku udah cukup berantakan apalagi kalo ga sama kamu.`;
+Jangan bosen sama aku, jangan jauh sama aku, tetep sama aku, aku udah cukup berantakan apalagi kalo ga sama kamu.😇🤍`;
 
 if (pengirim) {
   nama.innerHTML = pengirim;
